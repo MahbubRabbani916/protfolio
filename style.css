@@ -1,0 +1,105 @@
+body{
+    margin:0;
+    font-family: 'Poppins', sans-serif;
+
+}
+.banner-area{
+    display:flex;
+    
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    
+}
+.header{
+
+padding:5%;
+}
+.half-width{
+    width:50%
+    
+    
+} 
+.header a{
+   margin-top: 10px;
+   display:inline-block;
+    }
+
+.half-width img{
+    width:90%
+}
+.half-width h1{
+    font-size: 50px;
+}
+.font-color{
+    color:orange;
+}
+.linked{
+  text-decoration:none;
+  background-image:linear-gradient(rgb(196, 54, 165),rgba(0, 89, 255, 0.548));
+  padding:10px 25px;
+  font-weight: 700;
+  color:#fff;
+  border-radius: 10px;
+}
+.dream-blog{
+    display: flex;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.link{
+    background-image:linear-gradient(yellow,tomato);
+    padding: 10px 30px;
+    text-decoration: none;
+    border-radius: 10px;
+   
+}
+/*fdklsjglsk
+*/
+
+.experiance-area h1{
+    font-size: 50px;
+   
+}
+.experiance-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.content-area{
+    display: flex;
+   
+}
+.blog{
+    width: 40%;
+    
+    box-shadow: 10px 10px 40px gray;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 10px 30px;
+    border-left:;
+}
+#jotla-id{
+    border-left: 7px solid;
+    border-image: linear-gradient(rgb(84, 12, 218), skyblue);
+    border-image-slice: 1;
+}
+#ghapla-id{
+    border-left: 7px solid;
+    border-image: linear-gradient(orange, tomato);
+    border-image-slice: 1;
+}
+
+
+
+
+
+
+
+
+
+
+
+footer p{
+    text-align: center;
+}
